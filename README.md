@@ -7,3 +7,6 @@ just open a terminal and enter this command :
  
 And that's it
 Now you need to run the app using "npm start"
+Also i have lots of tips and topics on instagram so follow me. If you have any questions just contact me : email : kareemkrayem.w@gmail.com // instagram : kareem_krayem.kk
+
+Thank you
